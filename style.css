@@ -21,7 +21,7 @@ line-height: normal;
 text-decoration-line: underline;
 }
 
-.nav1{
+.sec1{
   width: 1540.513px;
 height: 613.544px;
 flex-shrink: 0;
@@ -35,7 +35,7 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 }
-.about{
+.ang{
   color: #000;
 font-family: Inter;
 font-size: 40px;
