@@ -1,0 +1,46 @@
+*{
+  margin: 20px;
+  padding: 0px;
+  
+}
+.par{
+  color: #000;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+h1{
+  color: #000;
+font-family: Inter;
+font-size: 64px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-decoration-line: underline;
+}
+
+.nav1{
+  width: 1540.513px;
+height: 613.544px;
+flex-shrink: 0;
+border:2px solid black;
+}
+.list{
+  color: #000;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.about{
+  color: #000;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-decoration-line: underline;
+}
